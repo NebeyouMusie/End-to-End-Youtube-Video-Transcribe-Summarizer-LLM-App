@@ -1,5 +1,5 @@
-youtube_transcript_api
-streamlit
-google-generativeai
-python-dotenv
-pathlib
+youtube_transcript_api==0.6.2
+streamlit==1.34.0
+google-generativeai==0.5.2
+python-dotenv==1.0.1
+pathlib==1.0.1
