@@ -1,6 +1,5 @@
 # End To End Youtube Video Transcribe Summarizer LLM App
- - In this project I have built an end to end YouTube video summarizer LLM app with Google Gemini Pro and Streamlit.
-
+ -  In this project I have built an end to end YouTube video summarizer LLM app with Google Gemini Pro and Streamlit. The application fetches video transcripts and then summarizes the video using the LLM.
 ![YouTube video Summarizer Image](./images/youtube_summarizer.png)
 
 ## DEMO
