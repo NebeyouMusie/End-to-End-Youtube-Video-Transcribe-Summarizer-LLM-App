@@ -35,7 +35,7 @@
 3. right click on the video then click on `copy link`
 4. paste the link on the input box of the app then, click on `Enter` to apply
 5. you will see the video thumbnail
-6. clcik on `Get Summary`
+6. click on `Get Summary`
 
 ## Collaboration
 - Collaborations are welcomed ❤️
