@@ -5,4 +5,4 @@ def load_config():
     return load_dotenv()
 
 def get_google_api_key():
-    return os.getenv('AIzaSyBdh8dwOFtBjCXFpBhxFmCfBUU-UHEeX0w')
+    return os.getenv('GOOGLE_API_KEY')
